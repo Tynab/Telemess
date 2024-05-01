@@ -1,5 +1,5 @@
 # TELEMESS
-Demo Telegram message
+Demo Telegram message.
 
 ## IMAGE DEMO
 <p align='center'>
